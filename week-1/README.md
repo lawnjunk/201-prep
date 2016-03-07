@@ -1,5 +1,3 @@
-[sea-201d3](https://github.com/slugbyte/201-prep)
-
 ## [week-1](/week-1)
 #### [class-1](/week-1/class-1)
 * **Readings**

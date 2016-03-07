@@ -1,6 +1,3 @@
-[sea-201d3]()
-==============
-
 ## [week-2](/week-2)
 #### [class-6](/week-2/class-6)
 * **Readings**
