@@ -1,5 +1,5 @@
-[sea-201d3]()
-==============
+[sea-201d3](http://github.com/slugbyte/201-prep)
+================
 
 ## [week-1](/week-1)
 #### [class-1](/week-1/class-1)
